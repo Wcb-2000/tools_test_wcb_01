@@ -1,0 +1,12 @@
+{
+  "name": "tools_test_wcb_01",
+  "version": "1.0.0",
+  "description": "描述该包，提供初始化的包，-包名称不可重复",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wcb",
+  "keywords": ["wcb","study-wcb"],
+  "license": "ISC"
+}
